@@ -1,4 +1,4 @@
-#*Gerenciador de Estudantes 📚
+#Gerenciador de Estudantes 📚
 
 Sistema simples em Node.js para gerenciar estudantes via terminal: cadastrar, listar, editar, remover e calcular notas/médias de forma interativa.
 
