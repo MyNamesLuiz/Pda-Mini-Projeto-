@@ -6,12 +6,21 @@ Sistema simples em Node.js para gerenciar estudantes via terminal: cadastrar, li
 
 #Funcionalidades
 ➕ Cadastrar estudante (nome, idade e 3 notas)
+
 🔍 Buscar estudante por nome (parcial e sem diferenciar guardas/minúsculas)
-✏️ Editar e 🗑️ remover estudantes
+
+✏️ Editar 
+
+🗑️ remover estudantes
+
 🧮 Exibir mídia individual
+
 📊 Calculadora média geral da turma
+
 🏆 Mostrar estudante com maior mídia
+
 ✅ Relatórios (aprovados, recuperação e reprovados)
+
 Aprovados: média ≥ 7
 Recuperação: 5 ≤ média < 7
 Reprovados: média < 5
